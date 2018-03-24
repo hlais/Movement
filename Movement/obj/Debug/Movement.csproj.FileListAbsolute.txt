@@ -1,0 +1,7 @@
+C:\Users\Isolated Gamerz\source\repos\Movement\Movement\bin\Debug\Movement.exe.config
+C:\Users\Isolated Gamerz\source\repos\Movement\Movement\bin\Debug\Movement.exe
+C:\Users\Isolated Gamerz\source\repos\Movement\Movement\bin\Debug\Movement.pdb
+C:\Users\Isolated Gamerz\source\repos\Movement\Movement\obj\Debug\Movement.csprojResolveAssemblyReference.cache
+C:\Users\Isolated Gamerz\source\repos\Movement\Movement\obj\Debug\Movement.csproj.CoreCompileInputs.cache
+C:\Users\Isolated Gamerz\source\repos\Movement\Movement\obj\Debug\Movement.exe
+C:\Users\Isolated Gamerz\source\repos\Movement\Movement\obj\Debug\Movement.pdb
